@@ -13,7 +13,7 @@ Joint angle encoding properties of CxHP8 neurons and activity of CxHP8 neurons d
 - "calcium_imaging_analysis.ipynb"
 - "analyze_calcium_signals_during_behavior.ipynb"
 
-The kinematic effects of optogenetic activation and silencing of CxHP8 neurons were characterized using the following Jupyter notebooks:
+The kinematic and behavioral effects of optogenetic activation and silencing of CxHP8 neurons were characterized using the following Jupyter notebooks:
 - "optogentics_analysis.ipynb"
 - "heuristic_grooming_classifier.ipynb"
 
