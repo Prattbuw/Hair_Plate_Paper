@@ -3,7 +3,7 @@ Code repository for Pratt et al., 2025
 
 This repository contains code to analyze walking kinematics of CxHP8 silenced flies on a treadmill, joint angle encoding properties of CxHP8 neurons, optogenetic silencing and activation kinematic effects of CxHP8 neurons, and hair plate connectivity in motor circuits in fruit flies.
 
-Datasets used in the following analyses are located at this Dryad repository:
+Datasets used in the following analyses are located at this Dryad repository: DOI: 10.5061/dryad.fxpnvx153
 
 3D walking kinematics (intraleg kinematics and interleg coordination) and resting posture of flies on a treadmill were analyzed and visualized using the following Jupyter notebooks:
 - "treadmill_analysis.ipynb"
